@@ -1,8 +1,8 @@
+在线体验：[https://yjj0339.github.io/pelican-voyage/](https://yjj0339.github.io/pelican-voyage/)
+
 # 鹈鹕骑行之旅 - Pelican Voyage
 
 🚴‍♂️ 一只快乐的鹈鹕骑着自行车穿越美丽的风景
-
-在线体验：[https://yjj0339.github.io/pelican-voyage/](https://yjj0339.github.io/pelican-voyage/)
 
 ## 特性
 
